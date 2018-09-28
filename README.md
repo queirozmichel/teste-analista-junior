@@ -1,4 +1,5 @@
 Informações importantes:
+
 No arquivo ".env" o banco de dados está com o nome de "crudLaravel", usuário "root" e senha "1234".
 Sendo assim, é só criar o BD e executar o comando migrate para que sejam criadas as tabelas necessárias.
 
