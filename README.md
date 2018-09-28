@@ -36,4 +36,5 @@ Tentei desenvolver da melhor forma possível considerando o tempo disposto e o c
 Gostei muito do desafio, inclusive já comprei um curso de Laravel para se aprofundar mais no framework, e também vou continuar para satisfação própria o desenvolvimento dele para completar tudo que foi pedido da maneira ideal.
 
 Foi usado:
-O framwork Bootstrap e o gerenciador de mysql phpMyAdmin aleḿ de um sistema operacional Linux(Ubuntu).
+
+Framework Bootstrap e o gerenciador de mysql phpMyAdmin aleḿ de um sistema operacional Linux(Ubuntu).
