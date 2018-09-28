@@ -1,7 +1,8 @@
 Informações importantes:
 
-No arquivo ".env" o banco de dados está com o nome de "crudLaravel", usuário "root" e senha "1234".
-Sendo assim, é só criar o BD e executar o comando migrate para que sejam criadas as tabelas necessárias.
+O arquivo ".env" não foi enviado, portanto deve ser criado ou movido de algum outro projeto para a pasta raiz.
+A pasta "vendor" também deve ser criada usando o comando "composer install".
+Após isso é só criar o BD e executar o comando migrate para que sejam criadas as tabelas necessárias.
 
 
 Itens faltantes:
@@ -19,7 +20,7 @@ de um site qualquer.
 Nesta tela é possivel logar(caso já tenha um cadastro criado) ou registrar um novo cadastro.
 Após fazer o login ou se registrar como novo, a próxima tela já mostra as informações de cadastro pertinente ao usuário logado e de todos os outros que já existam.
 Em cada registro é possível clicar no ícone do "lápis" para ser enviado para outra tela e assim editar as informações pessoais.
-E possível também adicionar filmes no qual o usuário já viu clicando no botão "Adicionar Filme" disposto na tela em que lista os registros. Assim é possível adicionar todas as informações referentes ao filmes.(neste caso é possivel adicionar quantos filmes quiser porém, um por vez).
+É possível também adicionar filmes no qual o usuário já viu clicando no botão "Adicionar Filme" disposto na tela em que lista os registros. Assim é possível adicionar todas as informações referentes ao filmes.(neste caso é possivel adicionar quantos filmes quiser porém, um por vez).
 É importante salientar que cada filme salvo é referenciado na tabela do banco de dados para o usuário que está logado no momento, usando assim uma chave estrangeira na tabela "filme".
 Ao adicionar cada filme o usuário é direcionado de forma automática para a tela que lista todas as informações de registros incluindo agora informações sobre os filmes de cada usuário.
 Foi implementado também uma barra no qual o usuário pode visualizar em qual página se encontra e caso queira é possível clicar em algum dos hiperlinks para voltar em alguma das páginas anteriores.
