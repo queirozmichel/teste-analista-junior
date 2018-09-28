@@ -37,4 +37,4 @@ Gostei muito do desafio, inclusive já comprei um curso de Laravel para se aprof
 
 Foi usado:
 
-Framework Bootstrap e o gerenciador de mysql phpMyAdmin aleḿ de um sistema operacional Linux(Ubuntu).
+Framework Bootstrap, Sublime e o gerenciador de mysql phpMyAdmin além do sistema operacional Linux(Ubuntu).
